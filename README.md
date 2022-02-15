@@ -1,6 +1,5 @@
-# mydemo4
+# Simple app that can transfering data with pages with RxDart
 
-PDP lesson task App
 
 ## Getting Started
 
